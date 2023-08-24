@@ -1,0 +1,160 @@
+.van {
+  background-color: brown;
+}
+
+.man {
+  min-width: fit-content;
+  border-radius: 4%;
+}
+
+.mag {
+  min-width: fit-content;
+  border-radius: 4%;
+}
+
+.mod {
+  min-width: fit-content;
+  border-radius: 4%;
+}
+
+.carouselExampleAutoplaying {
+  display: flex;
+  display: space-around;
+  justify-content: space-around;
+  justify-content: center;
+  align-items: center;
+}
+
+.body {
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 0;
+  padding-right: 0%;
+  background-color:#FAF3F0;
+}
+.dropdown-item {
+  background-color: rgb(157, 118, 35);
+}
+
+.logo {
+  font-size: larger;
+  font-weight: bold;
+}
+.carousel-inner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 80vh;
+  right: 15%;
+}
+
+.card {
+  left: 5%;
+}
+.container-fluid {
+  padding-top: 1%;
+  padding-bottom:0%;
+  padding-right: 10% ;
+  padding-left: 0% ;
+  position: fixed;
+  z-index: 5;
+  background-color: #946040;
+}
+.card-img-top {
+  border-radius: 5%;
+}
+
+.nav-link {
+  right: 40%;
+}
+
+.menubar {
+  display: flex;
+  display: space-around;
+  margin-right: 71%;
+  margin-left: 0%;
+}
+.searchbar {
+  background-color: #946040;
+  margin-left: 228%;
+  padding-left: 05%;
+  padding-top:0% ;
+  padding-bottom: 0%;
+  padding-right:05% ;
+}
+.contlogo {
+  margin-left: 2%;
+  padding-top: 2%;
+  padding-bottom: 0%;
+}
+.colorsearch{
+background-color: #1d161a;
+
+}
+
+.listcards{
+display: flex;
+background-color:#FFF3DA;
+position: relative;
+align-items: center;
+justify-content: space-around;
+
+}
+.textlist{
+  font-size: small;
+}
+.otherpage{
+background-color: rgb(111, 31, 157);
+}
+
+.listcard{
+
+  background-color: #946040;
+display: flex;
+  justify-content: space-around;
+}
+.card2{
+background-color: #946040;
+}
+.note{
+display: flex;
+justify-content: space-around;
+}
+.carouselExample1{
+
+  display: flex;
+}
+
+.imad1{
+  min-width: fit-content;
+  border-radius: 4%;
+ 
+}
+.imad2{
+  min-width: fit-content;
+  border-radius: 4%;
+}
+.imad3{
+  min-width: fit-content;
+  border-radius: 4%;
+}
+.carouselslide1{
+background-color:#FFDBC3 ;
+}
+.customertext{
+
+  display: flex;
+  justify-content: space-around;
+}
+
+.lastmenbar{
+background-color: #946040;
+display: flex;
+
+justify-content: space-around;
+
+}
+.list-group{
+
+  background-color: #946040;
+}
